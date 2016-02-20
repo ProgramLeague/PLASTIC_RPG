@@ -10,7 +10,7 @@
 + [千里冰封](https://github.com/ice1000)，这是我的[表情包](./Graphics/Faces/ice1000.png) 没错就是我
 + [张新伟](https://github.com/iXinwei)第三个参与战斗的成员
 + [奶茶](https://github.com/Tardis07) 作为女主角登场
-<br/>
+<br/><br/><br/>
 + [了解更多关于PLASTIC成员的二三事](https://github.com/ice1000/dialogs)
 
 ### 封面
@@ -42,4 +42,6 @@
 #### Windows Phone平台
 不支持。
 #### BlackBerry平台
+不支持。
+#### Raspbian平台
 不支持。
