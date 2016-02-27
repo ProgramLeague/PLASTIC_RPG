@@ -1,4 +1,4 @@
-本游戏是以PLASTIC组织的成员为角色制作的一款~~开源~~RPG游戏。
+﻿本游戏是以PLASTIC组织的成员为角色制作的一款~~开源~~RPG游戏。
 
 # 内容
 主角周明凯在前妻死亡后努力奋斗成为冰封王国的大勇士。<br/>
@@ -8,13 +8,14 @@
 + [周明凯](https://github.com/sg-first)及其~~意淫出来的~~前妻
 + [千里冰封](https://github.com/ice1000) 没错就是我
 + [奶茶](https://github.com/Tardis07) 作为女主角登场
-
+<br/>
 + [了解更多关于PLASTIC成员的二三事](https://github.com/ice1000/dialogs)
 
 
 # 说明
 + 开发环境：[RPGMaker VX Ace](http://pan.baidu.com/s/1kUlSmyz "密码：1plm") 合作的话请下载这个。密码自己找~
-+ 附送我好不容易找到的[教程](https://github.com/ice1000/cdfls-game/blob/master/extra/ins.pdf)
++ 附送我好不容易找到的RM使用[教程](https://github.com/ice1000/cdfls-game/blob/master/extra/ins.pdf)
++ 以及[脚本编写教程](http://tieba.baidu.com/p/83145477)
 
 # 安装方法
 与[CDFLS-GAME](https://github.com/ice1000/cdfls-game "也是我写的")相同，不予赘述。
