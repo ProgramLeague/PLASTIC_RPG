@@ -6,7 +6,7 @@
 
 ### 当前出场人物
 + 周明凯及其前妻
-+ 千里冰封
++ [千里冰封](https://github.com/ice1000)
 + [奶茶](https://github.com/Tardis07)
 
 
