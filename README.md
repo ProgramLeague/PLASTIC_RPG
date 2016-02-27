@@ -5,7 +5,7 @@
 为救出被抓走的奶茶公主，前往冒险，一路奋斗，结识伙伴，达成梦想。<br/>
 
 ### 当前出场人物
-+ 周明凯及其前妻
++ [周明凯](https://github.com/sg-first)及其前妻
 + [千里冰封](https://github.com/ice1000)
 + [奶茶](https://github.com/Tardis07)
 
