@@ -9,6 +9,8 @@
 + [千里冰封](https://github.com/ice1000)
 + [奶茶](https://github.com/Tardis07)
 
++ [了解更多关于PLASTIC成员的二三事](https://github.com/ice1000/dialogs)
+
 
 # 说明
 + 开发环境：[RPGMaker VX Ace](http://pan.baidu.com/s/1kUlSmyz "密码：1plm") 合作的话请下载这个。密码自己找~
