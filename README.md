@@ -4,6 +4,12 @@
 主角周明凯在前妻死亡后努力奋斗成为冰封王国的大勇士。<br/>
 为救出被抓走的奶茶公主，前往冒险，一路奋斗，结识伙伴，达成梦想。<br/>
 
+### 当前出场人物
++ 周明凯及其前妻
++ 千里冰封
++ 奶茶
+
+
 # 说明
 + 开发环境：[RPGMaker VX Ace](http://pan.baidu.com/s/1kUlSmyz "密码：1plm") 合作的话请下载这个。密码自己找~
 + 附送我好不容易找到的[教程](https://github.com/ice1000/cdfls-game/blob/master/extra/ins.pdf)
