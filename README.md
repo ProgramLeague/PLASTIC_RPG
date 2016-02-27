@@ -6,8 +6,8 @@
 
 ### 当前出场人物
 + [周明凯](https://github.com/sg-first)及其~~意淫出来的~~前妻
-+ [千里冰封](https://github.com/ice1000)
-+ [奶茶](https://github.com/Tardis07)
++ [千里冰封](https://github.com/ice1000) 没错就是我
++ [奶茶](https://github.com/Tardis07) 作为女主角登场
 
 + [了解更多关于PLASTIC成员的二三事](https://github.com/ice1000/dialogs)
 
